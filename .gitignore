@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+checkpoint_tarea3_kafka/
+spark-warehouse/
+metastore_db/
+derby.log
+*.log
